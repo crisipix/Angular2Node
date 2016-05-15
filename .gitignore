@@ -1,0 +1,5 @@
+ 
+# node_module Packages Directory
+## TODO: If you have node_module Package Restore enabled, uncomment the next line
+node_modules/
+typings/
